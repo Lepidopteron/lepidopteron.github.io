@@ -1,0 +1,7 @@
+ar -x com.lepi.tweak_0.0.1-150_iphoneos-arm.deb
+  
+md5 com.lepi.tweak_0.0.1-150_iphoneos-arm.deb
+ 
+shasum -a 1 com.lepi.tweak_0.0.1-150_iphoneos-arm.deb
+
+shasum -a 256 com.lepi.tweak_0.0.1-150_iphoneos-arm.deb
